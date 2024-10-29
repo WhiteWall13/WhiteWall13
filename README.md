@@ -29,11 +29,13 @@ const nicolasHameau = {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.8%20million%20lines%20of%20code-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 40 Contributions in the Year 2024
+> 🏆 42 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -92,12 +94,8 @@ R                        1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/WhiteWall13/WhiteWall13/main/assets/bar_graph.png)
-
-
- Last Updated on 29/10/2024 15:17:08 UTC
+ Last Updated on 29/10/2024 15:23:28 UTC
 <!--END_SECTION:waka-->
 
 
