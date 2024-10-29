@@ -90,13 +90,6 @@ TypeScript               1 repo              █░░░░░░░░░░�
 R                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/WhiteWall13/WhiteWall13/main/assets/bar_graph.png)
-
-
  Last Updated on 29/10/2024 15:07:52 UTC
 <!--END_SECTION:waka-->
 
