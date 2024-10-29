@@ -1,4 +1,4 @@
-<img src="https://imgur.com/a/BP3qNs7" alt="👋 Hello there! I'm Nicolas Hameau (https://whitewall13.github.io/CV/)" title="👋 Hello there! I'm Nicolas Hameau"/>
+<img src="assets/intro.gif" alt="👋 Hello there! I'm Nicolas Hameau (https://whitewall13.github.io/CV/)" title="👋 Hello there! I'm Nicolas Hameau"/>
 
 <!---visitors number here--->
 
