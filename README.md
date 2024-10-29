@@ -98,5 +98,12 @@ R                        1 repo              █░░░░░░░░░░�
  Last Updated on 29/10/2024 15:23:28 UTC
 <!--END_SECTION:waka-->
 
+## Find me on LinkedIn
+<div id="badges">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/nicolas-hameau-13242002/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 
 
