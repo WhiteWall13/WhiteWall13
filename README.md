@@ -25,8 +25,6 @@ const nicolasHameau = {
 ## Some GitHub data
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.8%20million%20lines%20of%20code-blue)
@@ -35,53 +33,12 @@ const nicolasHameau = {
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 46 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 12 Public Repositories 
  > 
 > 🔑 17 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                130 commits         ███████░░░░░░░░░░░░░░░░░░   26.21 % 
-🌆 Daytime                251 commits         █████████████░░░░░░░░░░░░   50.60 % 
-🌃 Evening                89 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
-🌙 Night                  26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   126 commits         ██████░░░░░░░░░░░░░░░░░░░   25.40 % 
-Tuesday                  62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Wednesday                56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Thursday                 82 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Friday                   63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-Saturday                 38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-Sunday                   69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -95,7 +52,7 @@ R                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/10/2024 23:20:49 UTC
+ Last Updated on 30/10/2024 01:41:18 UTC
 <!--END_SECTION:waka-->
 
 ## Find me on LinkedIn
