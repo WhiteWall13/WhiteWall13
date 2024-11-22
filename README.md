@@ -25,7 +25,7 @@ const nicolasHameau = {
 ## Some GitHub data
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -33,7 +33,7 @@ const nicolasHameau = {
 
 **🐱 My GitHub Data** 
 
-> 📦 1.4 MB Used in GitHub's Storage 
+> 📦 1.5 MB Used in GitHub's Storage 
  > 
 > 🏆 46 Contributions in the Year 2024
  > 
@@ -104,7 +104,7 @@ R                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/11/2024 18:30:13 UTC
+ Last Updated on 22/11/2024 19:17:19 UTC
 <!--END_SECTION:waka-->
 
 ## Find me on LinkedIn
