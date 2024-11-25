@@ -35,6 +35,8 @@ const nicolasHameau = {
 
 > 📦 1.6 MB Used in GitHub's Storage 
  > 
+> 🏆 46 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 12 Public Repositories 
@@ -102,7 +104,7 @@ R                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/11/2024 20:24:55 UTC
+ Last Updated on 25/11/2024 21:21:08 UTC
 <!--END_SECTION:waka-->
 
 ## Find me on LinkedIn
