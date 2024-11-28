@@ -25,7 +25,7 @@ const nicolasHameau = {
 ## Some GitHub data
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -104,7 +104,7 @@ R                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/11/2024 10:24:56 UTC
+ Last Updated on 28/11/2024 11:19:02 UTC
 <!--END_SECTION:waka-->
 
 ## Find me on LinkedIn
